@@ -1,4 +1,4 @@
-# GANS-on-Fashion-MNIST-dataset
+# GANS-on-Fashion-MNIST-dataset (Review)
 
 Start date:::- 10/08/2020
 Submission date:::- 22/08/2020
